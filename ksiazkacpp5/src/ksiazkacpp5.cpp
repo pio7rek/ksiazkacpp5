@@ -7,9 +7,8 @@
 //============================================================================
 
 #include <iostream>
-using namespace std;
 
 int main() {
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	std::cout << "!!!Hello World!!! (without using std)" << std::endl; // prints !!!Hello World!!!
 	return 0;
 }
