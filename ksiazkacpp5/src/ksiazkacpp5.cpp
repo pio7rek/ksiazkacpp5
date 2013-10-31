@@ -10,5 +10,8 @@
 
 int main() {
 	std::cout << "!!!Hello World!!! (without using std)" << std::endl; // prints !!!Hello World!!!
+
+	std::cout << "Ala ma pehca \npech ma kota!" << std::endl;
+
 	return 0;
 }
